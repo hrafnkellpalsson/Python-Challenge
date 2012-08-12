@@ -1,0 +1,5 @@
+Python stuff to learn
+* The while construct
+* The with construct
+* pdb - the python debugger
+* In challenge 3, can I use the compress function from the itertools module?
